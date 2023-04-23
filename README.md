@@ -11,4 +11,6 @@ Ouvrez les une après l'autre, afin de les charger et les actualiser.
 Une fois que toutes les scènes ont été ouvertes une première fois puis fermées, ouvrez la scène **"PrincipalRoom"**.
 A partir de cette scène vous pouvez vous rendre dans l'onglet **"Game"** et appuyer sur le bouton **"Play"** pour lancer le jeu sur Unity.
 
+//Lors du lancement, du jeu, il est normal qu'il y ait des warnings indiquant rouge ou orange, cela n'affecte en rien le fonctionnement du jeu.
+
 Bon jeu à vous !
